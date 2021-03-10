@@ -1,0 +1,9 @@
+<library path="lib/libpose_selector">
+  <class name="pose_selector/Pose Selector"
+         type="pose_selector::PoseSelector"
+         base_class_type="rviz::Panel">
+    <description>
+      A panel widget allowing the creation and viewing of task poses.
+    </description>
+  </class>
+</library>
